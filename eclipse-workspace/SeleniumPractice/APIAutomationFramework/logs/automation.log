@@ -1,6 +1,0 @@
-19:52:34.030 [main] INFO  API.Test.UserTests - ****************Creating User**************
-19:52:35.832 [main] INFO  API.Test.UserTests - ****************Created User**************
-19:52:35.848 [main] INFO  API.Test.UserTests - ****************Reading User Info**************
-19:52:37.798 [main] INFO  API.Test.UserTests - ****************Reading User Info done**************
-19:52:41.343 [main] INFO  API.Test.UserTests - ****************Updating User Info**************
-19:52:43.082 [main] INFO  API.Test.UserTests - ****************Delete User **************
