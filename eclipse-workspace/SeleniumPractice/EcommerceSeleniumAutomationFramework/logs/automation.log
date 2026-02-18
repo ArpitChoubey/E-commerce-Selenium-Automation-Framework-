@@ -1,0 +1,37 @@
+13:45:51.774 [main] INFO  testCases.HomePageTest - ===== Starting HomePageTest =====
+13:45:56.879 [main] INFO  testCases.HomePageTest - Chrome browser launched
+13:45:56.958 [main] INFO  testCases.HomePageTest - Browser window maximized
+13:46:00.162 [main] INFO  testCases.HomePageTest - Navigated to SparkleCart Home Page
+13:46:00.229 [main] INFO  testCases.HomePageTest - HomePage object initialized
+13:46:00.269 [main] INFO  testCases.HomePageTest - Verifying SparkleCart logo visibility
+13:46:00.377 [main] INFO  testCases.HomePageTest - Clicking on FAQs link
+13:46:00.411 [main] INFO  testCases.HomePageTest - Clicking on Track Order link
+13:46:00.429 [main] INFO  testCases.HomePageTest - Clicking on Contact link
+13:46:00.451 [main] INFO  testCases.HomePageTest - Closing browser
+13:46:00.817 [main] INFO  testCases.HomePageTest - ===== HomePageTest Finished =====
+15:33:27.069 [main] INFO  testCases.HomePageTest - ===== Starting HomePageTest =====
+15:33:29.375 [main] INFO  testCases.HomePageTest - Chrome browser launched
+15:33:29.512 [main] INFO  testCases.HomePageTest - Browser window maximized
+15:33:35.146 [main] INFO  testCases.HomePageTest - Navigated to SparkleCart Home Page
+15:33:35.152 [main] INFO  testCases.HomePageTest - HomePage object initialized
+15:33:35.161 [main] INFO  testCases.HomePageTest - Verifying SparkleCart logo visibility
+15:33:35.258 [main] INFO  testCases.HomePageTest - Clicking on FAQs link
+15:33:35.731 [main] INFO  testCases.HomePageTest - Clicking on Track Order link
+15:33:35.827 [main] INFO  testCases.HomePageTest - Clicking on Contact link
+15:33:35.910 [main] INFO  testCases.HomePageTest - Closing browser
+15:33:36.507 [main] INFO  testCases.HomePageTest - ===== HomePageTest Finished =====
+16:45:08.502 [main] INFO  testCases.HomePageTest - Starting test execution
+16:45:15.105 [main] INFO  testCases.HomePageTest - Capturing SparkleCart logo screenshot
+16:45:21.512 [main] INFO  testCases.HomePageTest - Logo screenshot captured successfully
+16:45:21.549 [main] INFO  testCases.HomePageTest - Verifying SparkleCart logo visibility
+16:45:21.610 [main] INFO  testCases.HomePageTest - Clicking FAQs link
+16:45:22.687 [main] INFO  testCases.HomePageTest - Browser closed
+18:43:17.344 [main] INFO  testCases.HomePageTest - Starting execution | OS: windows | Browser: chrome
+18:43:26.634 [main] INFO  testCases.HomePageTest - Verifying SparkleCart logo visibility
+18:43:27.187 [main] INFO  testCases.HomePageTest - Browser closed successfully
+18:44:12.587 [main] INFO  testCases.HomePageTest - Starting execution | OS: windows | Browser: chrome
+18:44:22.808 [main] INFO  testCases.HomePageTest - Verifying SparkleCart logo visibility
+18:44:23.376 [main] INFO  testCases.HomePageTest - Browser closed successfully
+18:55:26.584 [main] INFO  testCases.HomePageTest - Starting execution | OS: windows | Browser: chrome
+18:55:34.223 [main] INFO  testCases.HomePageTest - Verifying SparkleCart logo visibility
+18:55:35.556 [main] INFO  testCases.HomePageTest - Browser closed successfully
