@@ -1,4 +1,4 @@
-# 🛒 E-commerce Selenium Automation Framework
+# 🛒 Selenium Java E-commerce Test Automation Framework
 
 A robust and scalable Selenium Automation Framework designed for E-commerce web applications, built with Java, Selenium WebDriver, TestNG, Maven, Jenkins, and Extent Reports.  
 This framework follows the Page Object Model (POM) and supports data-driven testing, logging, reporting, and screenshot capture.
