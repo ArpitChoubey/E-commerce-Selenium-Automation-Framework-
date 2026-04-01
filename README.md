@@ -1,6 +1,6 @@
 # 🛒 E-commerce Selenium Automation Framework
 
-A robust and scalable Selenium Automation Framework designed for E-commerce web applications, built with Java, Selenium WebDriver, TestNG, Maven, and Extent Reports.  
+A robust and scalable Selenium Automation Framework designed for E-commerce web applications, built with Java, Selenium WebDriver, TestNG, Maven, Jenkins, and Extent Reports.  
 This framework follows the Page Object Model (POM) and supports data-driven testing, logging, reporting, and screenshot capture.
 
 ---
@@ -17,6 +17,27 @@ This framework follows the Page Object Model (POM) and supports data-driven test
 - ✅ Cross-browser execution support
 - ✅ Maven-based project structure
 - ✅ Easy to extend and maintain
+
+  ⚙️ Jenkins Integration (CI/CD)
+
+This project is integrated with Jenkins to enable continuous integration and automated test execution.
+
+🔹 Key Highlights:
+Automated test execution via Jenkins jobs
+Maven build integration
+Scheduled and trigger-based runs
+Execution reports are generated after each build
+
+🖼️ Jenkins Execution Snapshots
+
+Below are the Jenkins setup and execution screenshots included in this repository:
+
+📌 Jenkins Workspace Setup
+File: Jenkins E-commerce Workspace.png
+Demonstrates project configuration and workspace setup in Jenkins
+📌 Jenkins Test Execution
+File: Jenkins Selenium Private Class E-commerce Framework.png
+Shows the test execution pipeline and results in Jenkins
 
 ---
 
